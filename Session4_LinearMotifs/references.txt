@@ -1,0 +1,2 @@
+-	Gouw, M, et al. (2017). The eukaryotic linear motif resource - 2018 update. Nucleic Acids Res. Nov 10. [PMID: 29136216] 
+-	Dinkel, H., et al. (2012). ELM--the database of eukaryotic linear motifs. Nucleic Acids Res. Jan;40(Database issue):D242-51 [PMID: 22110040]
