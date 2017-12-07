@@ -1,0 +1,5 @@
+-	Uniprot: The UniProt Consortium. (2017). UniProt: the universal protein knowledgebase. Nucleic Acids Res. 45: D158-D169 [PMID: 27899622]
+-	BLAST: Altschul, S.F., et al., (1990). Basic local alignment search tool. J. Mol. Biol. 215:403-410. [PMID: 2231712]
+-	Pfam: Finn, R.D., et al., (2016). The Pfam protein families database: towards a more sustainable future. Nucleic Acids Research. Database Issue 44:D279-D285. [PMID: 26673716]
+-	InterPro: Finn, R.D., et al. (2017). InterPro in 2017 — beyond protein family and domain annotations. Nucleic Acids Research, Jan 4;45(D1):D190-D199. [PMID: 27899635]
+-	TMHMM: Krogh, A., et al. (2001). Predicting transmembrane protein topology with a hidden Markov model: Application to complete genomes. Journal of Molecular Biology, 305(3):567-580, January. [PMID: 11152613]
