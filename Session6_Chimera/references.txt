@@ -1,0 +1,1 @@
+-	Pettersen, E.F., et al., UCSF Chimera--a visualization system for exploratory research and analysis. J Comput Chem. Oct;25(13):1605-12. [PMID: 15264254]
