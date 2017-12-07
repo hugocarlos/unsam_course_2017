@@ -1,0 +1,6 @@
+-	IUPRED: 
+    Dosztányi, Z., et al. (2005). The pairwise energy content estimated from amino acid composition discriminates between folded and intrinsically unstructured proteins. J Mol Biol. Apr 8;347(4):827-39. [PMID: 15769473]
+    Dosztányi, Z., et al. (2005). IUPred: web server for the prediction of intrinsically unstructured regions of proteins based on estimated energy content. Bioinformatics. Aug 15;21(16):3433-4. [PMID: 15955779]
+-	ANCHOR: Dosztányi, Z., Mészáros, B., Simon, I. (2009). ANCHOR: web server for predicting protein binding regions in disordered proteins. Bioinformatics. Oct 15;25(20):2745-6. [PMID: 19717576]
+-	MOBIDB: Piovesan, D. et al., (2017). MobiDB 3.0: more annotations for intrinsic disorder, conformational diversity and interactions in proteins. Nucleic Acids Res. Nov 10. [PMID: 29136219]
+-	DISPROT: Piovesan, D., et al., DisProt 7.0: a major update of the database of disordered proteins. Nucleic Acids Res. Jan 4;45(D1):D1123-D1124. [PMID: 27965415]
